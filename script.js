@@ -51,6 +51,8 @@ document.addEventListener('DOMContentLoaded', () => {
         "mobile phone": "not allowed",
         "phone": "not allowed",
         "who is the goat": "Sayantan Barman",
+        "shaikh":"he is my god because he created me",
+        "
         "curriculum": "The school follows the curriculum set by the Central Board of Secondary Education (CBSE), which includes a wide range of subjects from kindergarten through secondary education.",
         "timing": "The school typically operates from Monday to Friday. The exact hours may vary, but classes generally start around 8:00 aM and end around 2:00 PM. For the most accurate timing, please refer to the school's official website or contact the administration.",
         "admission": " To apply for admission, you need to fill out the application form available on the school’s official website or at the school’s administrative office. The admission process usually involves submitting required documents, an entrance test, and an interview.you can also regester for admission online by this link https://aweserp-stg.inroad.in/webinterface/searchschool",
